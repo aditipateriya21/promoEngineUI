@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727272224207" clover="3.2.0">
+  <project timestamp="1727272224207" name="All files">
+    <metrics statements="294" coveredstatements="201" conditionals="186" coveredconditionals="92" methods="83" coveredmethods="56" elements="563" coveredelements="349" complexity="0" loc="294" ncloc="294" packages="8" files="18" classes="18"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.css" path="/home/aditi/Promo-Engine/src/App.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="App.jsx" path="/home/aditi/Promo-Engine/src/App.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.config">
+      <metrics statements="66" coveredstatements="32" conditionals="94" coveredconditionals="32" methods="12" coveredmethods="8"/>
+      <file name="CustomTextField.jsx" path="/home/aditi/Promo-Engine/src/components/config/CustomTextField.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="NotificationBanner.jsx" path="/home/aditi/Promo-Engine/src/components/config/NotificationBanner.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="SingleRuleForm.jsx" path="/home/aditi/Promo-Engine/src/components/config/SingleRuleForm.jsx">
+        <metrics statements="64" coveredstatements="30" conditionals="93" coveredconditionals="31" methods="10" coveredmethods="6"/>
+        <line num="456" count="19" type="stmt"/>
+        <line num="474" count="19" type="stmt"/>
+        <line num="475" count="19" type="stmt"/>
+        <line num="477" count="19" type="stmt"/>
+        <line num="478" count="9" type="stmt"/>
+        <line num="480" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="481" count="0" type="stmt"/>
+        <line num="482" count="0" type="stmt"/>
+        <line num="492" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="493" count="0" type="stmt"/>
+        <line num="494" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="495" count="0" type="stmt"/>
+        <line num="503" count="0" type="stmt"/>
+        <line num="515" count="9" type="stmt"/>
+        <line num="522" count="19" type="stmt"/>
+        <line num="523" count="3" type="cond" truecount="5" falsecount="0"/>
+        <line num="524" count="1" type="stmt"/>
+        <line num="527" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="528" count="1" type="stmt"/>
+        <line num="531" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="532" count="0" type="stmt"/>
+        <line num="535" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="536" count="0" type="stmt"/>
+        <line num="539" count="1" type="cond" truecount="2" falsecount="3"/>
+        <line num="541" count="0" type="stmt"/>
+        <line num="544" count="1" type="cond" truecount="3" falsecount="3"/>
+        <line num="546" count="1" type="stmt"/>
+        <line num="549" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="550" count="0" type="stmt"/>
+        <line num="553" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="554" count="0" type="stmt"/>
+        <line num="557" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="559" count="0" type="stmt"/>
+        <line num="562" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="564" count="0" type="stmt"/>
+        <line num="568" count="19" type="stmt"/>
+        <line num="569" count="3" type="stmt"/>
+        <line num="570" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="572" count="3" type="stmt"/>
+        <line num="573" count="3" type="stmt"/>
+        <line num="575" count="3" type="stmt"/>
+        <line num="576" count="3" type="stmt"/>
+        <line num="578" count="0" type="stmt"/>
+        <line num="588" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="589" count="0" type="stmt"/>
+        <line num="594" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="595" count="0" type="stmt"/>
+        <line num="601" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="602" count="0" type="stmt"/>
+        <line num="609" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="610" count="0" type="stmt"/>
+        <line num="613" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="614" count="0" type="stmt"/>
+        <line num="620" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="621" count="0" type="stmt"/>
+        <line num="628" count="0" type="stmt"/>
+        <line num="629" count="0" type="stmt"/>
+        <line num="632" count="0" type="stmt"/>
+        <line num="650" count="3" type="stmt"/>
+        <line num="651" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="653" count="3" type="stmt"/>
+        <line num="657" count="19" type="stmt"/>
+        <line num="683" count="2" type="stmt"/>
+        <line num="766" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="header.jsx" path="/home/aditi/Promo-Engine/src/components/header/header.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.homePage">
+      <metrics statements="102" coveredstatements="65" conditionals="46" coveredconditionals="28" methods="37" coveredmethods="23"/>
+      <file name="CustomizedTables.jsx" path="/home/aditi/Promo-Engine/src/components/homePage/CustomizedTables.jsx">
+        <metrics statements="40" coveredstatements="31" conditionals="14" coveredconditionals="8" methods="13" coveredmethods="12"/>
+        <line num="13" count="175" type="stmt"/>
+        <line num="23" count="16" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="16" type="stmt"/>
+        <line num="50" count="16" type="cond" truecount="2" falsecount="2"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="55" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="65" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="76" count="16" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="81" count="9" type="stmt"/>
+        <line num="82" count="9" type="stmt"/>
+        <line num="84" count="9" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="86" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="87" count="2" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="91" count="2" type="stmt"/>
+        <line num="94" count="9" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="100" count="9" type="stmt"/>
+        <line num="132" count="16" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="138" count="1" type="stmt"/>
+        <line num="139" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="144" count="1" type="stmt"/>
+        <line num="145" count="1" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+      </file>
+      <file name="EditRulePage.jsx" path="/home/aditi/Promo-Engine/src/components/homePage/EditRulePage.jsx">
+        <metrics statements="62" coveredstatements="34" conditionals="32" coveredconditionals="20" methods="24" coveredmethods="11"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="35" count="7" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="43" count="7" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="57" count="7" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="71" count="7" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="100" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="101" count="3" type="stmt"/>
+        <line num="105" count="4" type="stmt"/>
+        <line num="106" count="4" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="108" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="115" count="1" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="134" count="0" type="stmt"/>
+        <line num="143" count="4" type="stmt"/>
+        <line num="144" count="4" type="stmt"/>
+        <line num="145" count="1" type="stmt"/>
+        <line num="146" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="172" count="0" type="stmt"/>
+        <line num="180" count="4" type="stmt"/>
+        <line num="229" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.testorder">
+      <metrics statements="18" coveredstatements="18" conditionals="10" coveredconditionals="10" methods="5" coveredmethods="5"/>
+      <file name="AnalysisTable.jsx" path="/home/aditi/Promo-Engine/src/components/testorder/AnalysisTable.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="TestForm.jsx" path="/home/aditi/Promo-Engine/src/components/testorder/TestForm.jsx">
+        <metrics statements="14" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="7" count="21" type="stmt"/>
+        <line num="8" count="21" type="stmt"/>
+        <line num="9" count="21" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="25" count="21" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.screens">
+      <metrics statements="78" coveredstatements="65" conditionals="32" coveredconditionals="22" methods="17" coveredmethods="15"/>
+      <file name="ConfigPage.jsx" path="/home/aditi/Promo-Engine/src/screens/ConfigPage.jsx">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+      <file name="EvaluateOrder.jsx" path="/home/aditi/Promo-Engine/src/screens/EvaluateOrder.jsx">
+        <metrics statements="41" coveredstatements="33" conditionals="32" coveredconditionals="22" methods="6" coveredmethods="6"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="8" count="10" type="stmt"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="10" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="50" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="61" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="72" count="10" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="141" count="1" type="stmt"/>
+      </file>
+      <file name="HomePage.jsx" path="/home/aditi/Promo-Engine/src/screens/HomePage.jsx">
+        <metrics statements="20" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+      </file>
+      <file name="TestPage.jsx" path="/home/aditi/Promo-Engine/src/screens/TestPage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="15" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="1"/>
+      <file name="orderApi.jsx" path="/home/aditi/Promo-Engine/src/services/orderApi.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="promotionApi.jsx" path="/home/aditi/Promo-Engine/src/services/promotionApi.jsx">
+        <metrics statements="12" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utility">
+      <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="constants.jsx" path="/home/aditi/Promo-Engine/src/utility/constants.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="validationUtils.jsx" path="/home/aditi/Promo-Engine/src/utility/validationUtils.jsx">
+        <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+  </project>
+</coverage>
